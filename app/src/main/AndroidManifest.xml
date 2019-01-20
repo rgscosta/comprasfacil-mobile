@@ -35,10 +35,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".CadastroActivity" />
-        <activity android:name=".LoginGoogleNowActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".ScanActivity" />
-        <activity android:name=".EscolhaActivity" />
         <activity android:name=".LoginUserActivity" />
 
         <service android:name=".MyFirebaseMessagingService">
